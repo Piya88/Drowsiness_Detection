@@ -5,3 +5,4 @@ There can be many causes like lack of sleep, tiredness, driving long distance al
 In this project we will build a Neural network model which will be able to predict if person is drowsy or not.
 Drowsiness detection can be used in cars to detect if driver is feeling drowsy while driving car, this will alert the driver and will help to avoid many car accidents.
 
+![image](https://github.com/Piya88/Drowsiness_Detection/assets/137636789/5ca65434-a659-4807-8fcc-09ed4e511502)
